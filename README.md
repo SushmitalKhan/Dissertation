@@ -1,2 +1,2 @@
 # Dissertation
-Visualizatioms
+Visualizations
